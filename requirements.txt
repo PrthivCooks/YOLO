@@ -1,5 +1,5 @@
-flask==3.0.0
-opencv-python==4.9.0.80
-requests==2.31.0
-ultralytics==8.1.11
-python-dotenv==1.0.1  # (Optional: For managing env variables easily)
+flask
+opencv-python-headless
+numpy
+ultralytics
+gunicorn
