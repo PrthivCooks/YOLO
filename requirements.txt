@@ -1,5 +1,5 @@
 flask
 requests
-opencv-python-headless  # This avoids libGL issues
+opencv-python-headless  # Avoids OpenGL issues
 ultralytics
 gunicorn  # Production-ready Flask server
